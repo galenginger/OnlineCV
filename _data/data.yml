@@ -8,24 +8,24 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: Sebastian Linnér
+  tagline: Junior .NET Developer | Ny inom programmering, driven att lära
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
+  email: sebastianprivata@gmail.com
+  phone: 0725256121
+  timezone: Europe/Stockholm
+  citizenship: Svensk
+  website: # Include the full website URL, including "http://" or "https://".
+  linkedin: sebastian-linnér
+  xing:
+  github: galenginger
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  bluesky: # Specify your full Bluesky handle
+  twitter:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -35,252 +35,403 @@ sidebar:
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
-    title: Languages
+    title: Språk
     info:
-    - idiom: English
-      level: Native
+    - idiom: Svenska
+      level: Modersmål
 
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
-      level: Professional
+    - idiom: Engelska
+      level: Flytande
 
   interests:
-    title: Interests
+    title: Intressen
     info:
-    - item: Climbing
+    - item: .NET & C# Programmering (Daglig passion!)
       link:
 
-
-    - item: Snowboarding
+    - item: Kodutmaningar & Problemlösning
       link:
 
+    - item: Open Source & GitHub-bidrag
+      link:
 
-    - item: Cooking
+    - item: Tech Blogs & Utvecklarcommunity
+      link:
+
+    - item: Fiske & Skogen (Avkoppling)
+      link:
+
+    - item: Bygga & Uppfinna
+      link:
+
+    - item: Matlagning & Camping
       link:
 
 
 career-profile:
-  title: Career Profile
+  title: Profil
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Motiverad karriäromställare som i september 2025 påbörjade min resa mot att bli 
+    .NET-utvecklare. Med endast några månader av utbildning bakom mig har jag redan 
+    utvecklat en stark passion för programmering och problemlösning genom kod.
+    
+    Även om jag är ny inom .NET och C#, så kompenserar jag med extrem arbetsmoral, 
+    snabb inlärning och en genuint nyfikenhet för hur saker fungerar. Min industriella 
+    bakgrund från svets- och produktionsarbete har lärt mig vikten av precision, 
+    struktur och att inte ge upp när det blir utmanande - egenskaper som visat sig 
+    ovärderliga när jag nu lär mig programmering.
+    
+    **Varför .NET-utveckling?** Efter år i industrin insåg jag att jag ville arbeta 
+    med något där jag kan skapa, lösa komplexa problem och ständigt utvecklas. 
+    Programmering ger mig den intellektuella stimulansen jag saknat, och varje gång 
+    jag får en funktion att fungera eller löser ett buggar känner jag samma tillfredsställelse 
+    som när jag tidigare skapade fysiska produkter.
+    
+    Jag söker nu praktik/LIA-plats eller juniorroller där jag kan lära från erfarna 
+    utvecklare, bidra med mitt driv och växa in i yrket. Jag är ödmjuk inför att jag 
+    har mycket att lära, men är beredd att lägga ner den tid och energi som krävs.
 education:
-  title: Education
+  title: Utbildning
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: .NET Systemutvecklare
+    university: Borås Yrkeshögskola
+    time: Sep 2025 - Jun 2027 (Pågående - Termin 1)
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+      Intensiv yrkeshögskoleutbildning inom modern .NET-utveckling som startade 
+      september 2025. Trots att jag är i början av min utbildning har jag redan 
+      märkt en enorm passion för programmering och systemutveckling.
+      
+      **Aktuella kurser och lärdomar (Termin 1):**
+        - Introduktion till C# och objektorienterad programmering
+        - Grundläggande programmeringslogik och algoritmer
+        - Versionhantering med Git och GitHub
+        - Problemlösning och felsökningsmetodik
+        - Introduktion till databaser och SQL
+        - Utvecklingsmiljöer (Visual Studio, VS Code)
+      
+      **Kommande fokusområden i utbildningen:**
+        - Fördjupad C# och .NET Core/Framework
+        - ASP.NET Core och Web API-utveckling
+        - Entity Framework och avancerad databasdesign
+        - Systemarkitektur och design patterns
+        - Cloud-tjänster och Azure
+        - Agila metoder och projektledning
+        - Testdriven utveckling (TDD)
+      
+      **Min inlärningsresa:** Varje dag lär jag mig något nytt och jag älskar 
+      känslan av att förstå nya koncept. Jag spenderar också tid utanför lektionstid 
+      med att koda egna projekt, lösa kodutmaningar och följa tutorials för att 
+      påskynda min utveckling.
+      
+      **LIA (Lärande i Arbete):** Utbildningen inkluderar praktikperioder där jag 
+      kommer att få applicera mina kunskaper i verkliga projekt - något jag ser 
+      enormt fram emot!
+      
+  - degree: International Welding – IW Svets
+    university: Marks Gymnasium, Skene
+    time: 2017 - 2019
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Yrkesutbildning inom avancerad svetsning med inriktning på TIG/MMA och MIG/MAG 
+      på stål, plåt och rör. Utbildningen betonade precision, metodisk arbetsgång och 
+      höga kvalitetskrav.
+      
+      Kompetenser som är överförbara till programmering:
+        - Teknisk dokumentation och ritningsläsning (liknar kodläsning)
+        - Extrem noggrannhet och detaljorientering (debugging mindset)
+        - Metodiskt arbetssätt vid problemlösning
+        - Hantering av strikta kvalitetskrav och standarder
 
 experiences:
-  title: Experiences
+  title: Arbetslivserfarenhet
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Gjutare & Maskinist
+    time: Jun 2019 - Sep 2025 (Lämnade för att följa min passion)
+    company: Tranemo Prefab
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+      Produktion av prefabricerade betongelement. Efter 6 år i branschen 
+      insåg jag att jag ville arbeta med något som utmanar mig intellektuellt varje dag.
+      Valet att lämna en trygg anställning för att studera programmering var lätt - 
+      jag ville arbeta med något jag brinner för.
+      
+      Huvudsakliga arbetsuppgifter:
+        - Formning, armering och ingjutningsgods för betongelement
+        - Operativt ansvar för betongbeställningar, logistik och materialflöde
+        - Kvalitetsfinish: glättning, slipning och ythantering
+        - Samordning med leverantörer och internt team
+        - Felsökning och problemlösning vid produktionsavvikelser
+      
+      **Vad jag tar med mig till programmering:**
+        - Systematisk problemlösning och root cause analysis
+        - Förmåga att arbeta under press med täta deadlines
+        - Kvalitetsmedvetenhet och detaljorientering
+        - Teamarbete och tydlig kommunikation
+      
+  - role: Svetsare
+    time: 2017 - Maj 2019
+    company: Specma Hydraulic AB
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+      Specialiserad svetsning av hydraulikrör och komponenter med MIG/MAG och TIG 
+      enligt höga kvalitetskrav. Arbetet krävde extrem precision med nolltolerans 
+      mot porer och läckage.
+      
+      Arbetsuppgifter:
+        - Svetsning av hydraulikrör och komponenter för industri- och fordonssystem
+        - Kvalitetskontroll enligt strikta täthets- och hållfasthetsstandarder
+        - Arbete med rundmatningsbord och robotintroduktion (ABB)
+        - Ritningsläsning och materialval för optimala svetsresultat
+      
+      Kompetenser: Precision, kvalitetsfokus, teknisk förståelse och anpassning 
+      till nya tekniker och arbetsmetoder.
+      
+  - role: Driftledare / Maskinoperatör
+    time: 2015 - 2017
+    company: ABAS Protect AB
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Operativ ledning av produktionsflöde och personalansvar. Kombinerade 
+      planeringsansvar med praktiskt deltagande i produktionen.
+      
+      Ansvarsområden:
+        - Planering av produktionsordrar och leveransflöde
+        - Arbetsfördelning och koordinering av personal
+        - Operativt deltagande i produktionen vid behov
+        - Säkerställande av produktionskvalitet och leveranstider
+      
+      Nyckelkompetenser: Ledarskap, planering, kommunikation och 
+      problemlösning under tidspress.
+      
+  - role: Lastmaskinist (Hjullastare)
+    time: Pågående (Deltid/Behovsanställning)
+    company: EME Energiproduktion AB
+    details: |
+      Materialförsörjning och driftstabilitet för energiproduktion. Arbete med 
+      hjullastare för materialhantering och blandning.
+      
+      Arbetsuppgifter:
+        - Materialförsörjning och säkerställande av driftstabilitet
+        - Blandning och kontroll av fuktbalans för optimal förbränning
+        - Helg- och nattpass vid behov för att upprätthålla kontinuerlig drift
+      
+  - role: Svetsare & Montör
+    time: Pågående (Deltid/Behovsanställning)
+    company: Borås Svets & Montage
+    details: |
+      Svetsning och montering både inomhus och utomhus enligt kundspecifikationer.
+      
+      Arbetsuppgifter:
+        - Svetsning och strukturell montering på plats
+        - Kapning, borrning och förberedelse av material
+        - Anpassning till varierande projekt och arbetsmiljöer
+      
+  - role: Svetsare / Montör
+    time: Pågående (Deltid/Behovsanställning)
+    company: Lydde Mekaniska
+    details: |
+      Svetsning och strukturell montering för industri- och byggprojekt.
+      
+      Arbetsuppgifter:
+        - Svets och strukturell montering enligt ritningar
+        - Kapning och borrning av material
+        - Kvalitetskontroll och efterarbete
 
 certifications:
-  title: Certifications
+  title: Certifikat & Behörigheter
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
-    details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
+  - name: Körkort
+    start:
     end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
+    organization: Trafikverket
+    credentialid:
+    credentialurl:
+    credentialname:
     details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      Innehar flera körkortsbehörigheter för olika fordonstyper:
+      B, A2, A3, A4, B1, B2, B3
+      
+  - name: Truckkort & Hjullastare
+    start:
+    end:
+    organization:
+    credentialid:
+    credentialurl:
+    credentialname:
+    details: |
+      Certifierad för drift av truck och hjullastare i industriell miljö.
+      
+  - name: Travers / Säkra lyft
+    start:
+    end:
+    organization:
+    credentialid:
+    credentialurl:
+    credentialname:
+    details: |
+      Utbildning i säker användning av travers och lyftanordningar enligt 
+      arbetsmiljöverkets krav.
+      
+  - name: International Welding Certification
+    start:
+    end:
+    organization: IW
+    credentialid:
+    credentialurl:
+    credentialname:
+    details: |
+      Certifierad svetsare enligt internationell standard (IW) för TIG/MMA 
+      och MIG/MAG på stål, plåt och rör.
 
 projects:
-  title: Projects
+  title: Projekt & Lärande
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Även om jag precis börjat min programmeringsresa i september 2025, arbetar jag aktivt med 
+    projekt och övningar för att påskynda min utveckling. Här är exempel på vad jag jobbar med 
+    och planerar att bygga under min utbildning.
   assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-  - title: DevStudio
+  - title: Konsollapplikationer i C#
     link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    tagline: "Grundläggande konsolprogram för att öva på syntax, loopar, conditionals och objektorientering. Fokus på att verkligen förstå grunderna."
 
-  - title: Tempo
+  - title: Todo-applikation med CRUD
     link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    tagline: "Mitt första större projekt - en todo-app för att lära mig skapa, läsa, uppdatera och ta bort data. Steg för steg bygger jag förståelse för datahantering."
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+  - title: GitHub Learning Repository
+    link: "https://github.com/galenginger"
+    tagline: "Dokumenterar min inlärningsresa genom kod. Varje commit är ett steg framåt i min utveckling som programmerare."
 
-  - title: Delta
+  - title: Kodutmaningar & Övningar
     link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    tagline: "Daglig träning genom kodutmaningar för att skärpa problemlösningsförmåga och bli bekvämare med C#-syntax och logik."
+
+  - title: Framtida projekt (Planerade)
+    link: "#"
+    tagline: "API-utveckling, databasintegrering, webbapplikationer med ASP.NET Core - allt jag ser fram emot att lära mig och bygga!"
 
 oss:
-  title: OSS Contributions
+  title: Teknisk Kompetens & Inlärning
   intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Som nybliven programmeringsstudent (startade september 2025) bygger jag kontinuerligt upp 
+    min tekniska kompetens. Här är vad jag håller på att lära mig och var jag befinner mig i min resa.
   contributions:
-  - title: Tempo
+  - title: C# & .NET Fundamentals (Aktivt lärande)
     link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    tagline: "Grundläggande syntax, OOP-principer, datatyper, kontrollstrukturer och metodskapande. Tränar dagligen!"
 
-  - title: Atom
+  - title: Git & GitHub (Nybörjarnivå)
     link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    tagline: "Lär mig versionhantering, commits, branches och samarbetsverktyg. Push och pull känns redan naturligt."
 
-  - title: Delta
+  - title: SQL & Databaser (Introduktionsfas)
     link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    tagline: "Grundläggande SELECT, INSERT, UPDATE, DELETE och databasdesign. Fascinerande hur data struktureras!"
+
+  - title: Problemlösning & Algoritmer (Tränar aktivt)
+    link: "#"
+    tagline: "Övar dagligen på logiskt tänkande och att bryta ner problem i mindre delar - kärnan i programmering"
+
+  - title: Visual Studio & VS Code (Blir mer bekväm)
+    link: "#"
+    tagline: "Lär mig utvecklingsmiljöerna, debugger och verktyg som gör mig mer produktiv"
+
+  - title: Kommande fokusområden (Q1-Q2 2026)
+    link: "#"
+    tagline: "ASP.NET Core, Web API, Entity Framework, Azure och avancerade C#-koncept - så mycket att se fram emot!"
 
 publications:
-  title: Publications
+  title: Varför jag blir en bra utvecklare
   intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
+    Även om jag är ny inom programmering, har jag egenskaper och erfarenheter som 
+    gör mig till en stark kandidat för junior-roller och LIA-platser.
   papers:
-  - title: The Art of Computer Programming
+  - title: Passion & Driv (Min superkraft)
     link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+    authors: Genuint älskar att koda och lära mig nya saker
+    conference: Spenderar kvällar och helger med att programmera - inte för att jag måste, utan för att jag vill
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+  - title: Snabb Inlärning & Adaptionsförmåga
     link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    authors: Bevisat genom framgångsrik karriäromställning från industri till IT
+    conference: På bara några månader har jag gått från noll programmeringskunskap till att förstå OOP, Git och grundläggande C#
 
-  - title: A syntax directed compiler for Algol 60
+  - title: Ödmjuk men Ambitiös
     link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+    authors: Förstår att jag har mycket att lära, men tar varje tillfälle att växa
+    conference: Tar emot feedback positivt och ser mentorskap som ovärderligt för min utveckling
+
+  - title: Problemlösare från Grunden
+    link: "#"
+    authors: År av felsökning inom industri och produktion
+    conference: Vet att lösningar finns - det handlar bara om att systematiskt bryta ner problemet
+
+  - title: Kvalitet & Noggrannhet
+    link: "#"
+    authors: Industriell bakgrund med nolltolerans för fel
+    conference: Samma mentalitet för ren kod, testning och dokumentation
+
+  - title: Teamplayer & Kommunikativ
+    link: "#"
+    authors: Erfaren i både ledarroller och samarbete
+    conference: Vet att mjukvaruutveckling är lagarbete - delar kunskap och lär gärna av andra
+
+  - title: Uthållighet & Arbetsmoral
+    link: "#"
+    authors: När något är svårt ger jag inte upp - jag googlar, testar och försöker igen
+    conference: Debugging är frustrerande men också det mest tillfredsställande när man löser det!
 
 recommendations:
-  title: Recommendations
+  title: Rekommendationer
   list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
+  - person: Kontakta för referens
+    email: 
+    phone: 
+    role: Tranemo Prefab
     recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
+      Referenser från arbetsgivare finns tillgängliga på begäran.
+  - person: Kontakta för referens
+    email: 
+    phone: 
+    role: Specma Hydraulic AB
     recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
+      Referenser från tidigare arbetsgivare tillhandahålls gärna vid intervju.
 
 skills:
-  title: Skills &amp; Proficiency
+  title: Tekniska Färdigheter (Ärlig självbedömning)
 
   toolset:
-  - name: Python & Django
-    level: 98%
+  - name: C# Grundläggande (Aktivt lärande)
+    level: 35%
 
-  - name: Javascript & jQuery
-    level: 98%
+  - name: .NET Framework Fundamentals
+    level: 30%
 
-  - name: Angular
-    level: 98%
+  - name: Git & GitHub (Versionhantering)
+    level: 40%
 
-  - name: HTML5 & CSS
+  - name: SQL Grunder (SELECT, JOIN, INSERT)
+    level: 35%
+
+  - name: OOP Principer (Classes, Objects, Methods)
+    level: 40%
+
+  - name: Visual Studio & VS Code
+    level: 45%
+
+  - name: Problemlösning & Debugging
+    level: 50%
+
+  - name: HTML & CSS Grunder
+    level: 30%
+
+  - name: Inlärningsförmåga & Adaptivitet
     level: 95%
 
-  - name: Ruby on Rails
-    level: 85%
+  - name: Arbetsmoral & Driv
+    level: 98%
 
-  - name: Sketch & Photoshop
-    level: 60%
+  - name: Teamarbete & Kommunikation
+    level: 90%
+
+  - name: Uthållighet vid utmaningar
+    level: 95%
 
 footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Uppdaterad November 2025 - Sebastian Linnér
