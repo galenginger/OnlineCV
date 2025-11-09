@@ -10,7 +10,7 @@ sidebar:
   # Profile information
   name: Sebastian Linnér
   tagline: Junior .NET Developer | Ny inom programmering, driven att lära
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: sebastian.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: sebastianprivata@gmail.com
@@ -18,7 +18,7 @@ sidebar:
   timezone: Europe/Stockholm
   citizenship: Svensk
   website: # Include the full website URL, including "http://" or "https://".
-  linkedin: sebastian-linnér
+  linkedin: sebastian-linnerr
   xing:
   github: galenginger
   telegram: # add your nickname without '@' sign
@@ -290,9 +290,9 @@ projects:
     link: "#"
     tagline: "Grundläggande konsolprogram för att öva på syntax, loopar, conditionals och objektorientering. Fokus på att verkligen förstå grunderna."
 
-  - title: Todo-applikation med CRUD
+  - title: Videotek-Applikation (Pågående skolprojekt)
     link: "#"
-    tagline: "Mitt första större projekt - en todo-app för att lära mig skapa, läsa, uppdatera och ta bort data. Steg för steg bygger jag förståelse för datahantering."
+    tagline: "Databasdriven applikation för videohantering med C# och SQL. Implementerar CRUD-operationer, relationsdatabaser och objektorienterad design för att hantera filmer, kategorier och användare."
 
   - title: GitHub Learning Repository
     link: "https://github.com/galenginger"
@@ -376,22 +376,6 @@ publications:
     link: "#"
     authors: När något är svårt ger jag inte upp - jag googlar, testar och försöker igen
     conference: Debugging är frustrerande men också det mest tillfredsställande när man löser det!
-
-recommendations:
-  title: Rekommendationer
-  list:
-  - person: Kontakta för referens
-    email: 
-    phone: 
-    role: Tranemo Prefab
-    recommendation: |
-      Referenser från arbetsgivare finns tillgängliga på begäran.
-  - person: Kontakta för referens
-    email: 
-    phone: 
-    role: Specma Hydraulic AB
-    recommendation: |
-      Referenser från tidigare arbetsgivare tillhandahålls gärna vid intervju.
 
 skills:
   title: Tekniska Färdigheter (Ärlig självbedömning)
