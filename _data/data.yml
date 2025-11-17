@@ -201,7 +201,7 @@ experiences:
       problemlösning under tidspress.
       
   - role: Lastmaskinist (Hjullastare)
-    time: Pågående (Deltid/Behovsanställning)
+    time: 
     company: EME Energiproduktion AB
     details: |
       Materialförsörjning och driftstabilitet för energiproduktion. Arbete med 
@@ -213,7 +213,7 @@ experiences:
         - Helg- och nattpass vid behov för att upprätthålla kontinuerlig drift
       
   - role: Svetsare & Montör
-    time: Pågående (Deltid/Behovsanställning)
+    time: 
     company: Borås Svets & Montage
     details: |
       Svetsning och montering både inomhus och utomhus enligt kundspecifikationer.
@@ -224,7 +224,7 @@ experiences:
         - Anpassning till varierande projekt och arbetsmiljöer
       
   - role: Svetsare / Montör
-    time: Pågående (Deltid/Behovsanställning)
+    time: 
     company: Lydde Mekaniska
     details: |
       Svetsning och strukturell montering för industri- och byggprojekt.
