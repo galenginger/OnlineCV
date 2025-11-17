@@ -72,61 +72,59 @@ sidebar:
 career-profile:
   title: Profil
   summary: |
-    Motiverad karriäromställare som i september 2025 påbörjade min resa mot att bli 
-    .NET-utvecklare. Med endast några månader av utbildning bakom mig har jag redan 
-    utvecklat en stark passion för programmering och problemlösning genom kod.
+    🎯 **SÖKER LIA-PLATS (2026)** - .NET Systemutvecklare under utbildning på 
+    Borås Yrkeshögskola med stark passion för backend-utveckling och problemlösning.
     
-    Även om jag är ny inom .NET och C#, så kompenserar jag med extrem arbetsmoral, 
-    snabb inlärning och en genuint nyfikenhet för hur saker fungerar. Min industriella 
-    bakgrund från svets- och produktionsarbete har lärt mig vikten av precision, 
-    struktur och att inte ge upp när det blir utmanande - egenskaper som visat sig 
-    ovärderliga när jag nu lär mig programmering.
+    I september 2025 påbörjade jag min omställning från industri till .NET-utveckling. 
+    Med bakgrund från 6+ år i produktion och svets tar jag med mig värdefulla 
+    kompetenser: systematisk problemlösning, precision, teamarbete och förmågan att 
+    arbeta strukturerat under press.
     
-    **Varför .NET-utveckling?** Efter år i industrin insåg jag att jag ville arbeta 
-    med något där jag kan skapa, lösa komplexa problem och ständigt utvecklas. 
-    Programmering ger mig den intellektuella stimulansen jag saknat, och varje gång 
-    jag får en funktion att fungera eller löser ett buggar känner jag samma tillfredsställelse 
-    som när jag tidigare skapade fysiska produkter.
+    **Varför jag blir en bra LIA-student:**
+    - Extrem arbetsmoral och driv att lära (kodar dagligen utanför lektionstid)
+    - Ödmjuk men ambitiös - tar emot feedback och ser mentorskap som ovärderligt
+    - Praktisk problemlösare som inte ger upp vid utmaningar
+    - Genuint passionerad för programmering och systemutveckling
     
-    Jag söker nu praktik/LIA-plats eller juniorroller där jag kan lära från erfarna 
-    utvecklare, bidra med mitt driv och växa in i yrket. Jag är ödmjuk inför att jag 
-    har mycket att lära, men är beredd att lägga ner den tid och energi som krävs.
+    **Vad jag söker:** En LIA-plats där jag får arbeta med erfarna utvecklare, 
+    bidra till riktiga projekt och fortsätta växa inom .NET-ekosystemet. Jag är 
+    redo att lägga ner tid och energi för att bli en värdefull teammedlem.
 education:
-  title: Utbildning
+  title: 🎓 Utbildning - Mitt Fokus
   info:
-  - degree: .NET Systemutvecklare
+  - degree: ⭐ .NET Systemutvecklare (PÅGÅENDE - SÖKER LIA 2026)
     university: Borås Yrkeshögskola
-    time: Sep 2025 - Jun 2027 (Pågående - Termin 1)
+    time: Sep 2025 - Jun 2027 | Termin 1 av 4
     details: |
-      Intensiv yrkeshögskoleutbildning inom modern .NET-utveckling som startade 
-      september 2025. Trots att jag är i början av min utbildning har jag redan 
-      märkt en enorm passion för programmering och systemutveckling.
+      **DETTA ÄR MIN HUVUDFOKUS** - Intensiv 2-årig yrkeshögskoleutbildning inom 
+      modern .NET-utveckling med inriktning backend och systemarkitektur.
       
-      **Aktuella kurser och lärdomar (Termin 1):**
-        - Introduktion till C# och objektorienterad programmering
-        - Grundläggande programmeringslogik och algoritmer
-        - Versionhantering med Git och GitHub
-        - Problemlösning och felsökningsmetodik
-        - Introduktion till databaser och SQL
-        - Utvecklingsmiljöer (Visual Studio, VS Code)
+      📚 **Termin 1 (Sep-Dec 2025) - Aktuella studier:**
+        ✓ C# Fundamentals och Objektorienterad Programmering
+        ✓ Programmeringslogik, algoritmer och datastrukturer
+        ✓ Git, GitHub och versionhantering
+        ✓ SQL och relationsdatabaser (queries, design, normalisering)
+        ✓ Debugging, felsökning och problemlösningsmetodik
+        ✓ Visual Studio & VS Code utvecklingsmiljöer
       
-      **Kommande fokusområden i utbildningen:**
-        - Fördjupad C# och .NET Core/Framework
-        - ASP.NET Core och Web API-utveckling
-        - Entity Framework och avancerad databasdesign
-        - Systemarkitektur och design patterns
-        - Cloud-tjänster och Azure
-        - Agila metoder och projektledning
-        - Testdriven utveckling (TDD)
+      🚀 **Termin 2-3 (2026) - Kommande:**
+        ▶ Fördjupad C# och .NET 8/9
+        ▶ ASP.NET Core, Web API och RESTful services
+        ▶ Entity Framework Core och avancerad databasdesign
+        ▶ Design patterns och systemarkitektur
+        ▶ Azure Cloud Services och deployment
+        ▶ Testdriven utveckling (TDD) och CI/CD
+        ▶ Agila metoder (Scrum/Kanban)
       
-      **Min inlärningsresa:** Varje dag lär jag mig något nytt och jag älskar 
-      känslan av att förstå nya koncept. Jag spenderar också tid utanför lektionstid 
-      med att koda egna projekt, lösa kodutmaningar och följa tutorials för att 
-      påskynda min utveckling.
+      💼 **LIA-PERIODER (2026-2027):**
+      Utbildningen inkluderar två LIA-perioder där jag kommer arbeta i verkliga 
+      utvecklingsteam. Detta är vad jag ser mest fram emot - att applicera mina 
+      kunskaper i riktiga projekt och lära från erfarna utvecklare.
       
-      **LIA (Lärande i Arbete):** Utbildningen inkluderar praktikperioder där jag 
-      kommer att få applicera mina kunskaper i verkliga projekt - något jag ser 
-      enormt fram emot!
+      💡 **Min dedikation:** Utöver lektionstid spenderar jag kvällar och helger 
+      med att koda egna projekt (se nedan), lösa kodutmaningar och fördjupa mig i 
+      .NET-ekosystemet. Programmering är inte bara en utbildning för mig - det är 
+      min passion.
       
   - degree: International Welding – IW Svets
     university: Marks Gymnasium, Skene
@@ -144,95 +142,30 @@ education:
 
 experiences:
   title: Arbetslivserfarenhet
+  intro: |
+    6+ år inom industri och produktion har format mig till en systematisk problemlösare 
+    med stark arbetsmoral. September 2025 valde jag att följa min passion och börja 
+    studera .NET-utveckling heltid.
   info:
   - role: Gjutare & Maskinist
-    time: Jun 2019 - Sep 2025 (Lämnade för att följa min passion)
+    time: 2019 - Sep 2025
     company: Tranemo Prefab
     details: |
-      Produktion av prefabricerade betongelement. Efter 6 år i branschen 
-      insåg jag att jag ville arbeta med något som utmanar mig intellektuellt varje dag.
-      Valet att lämna en trygg anställning för att studera programmering var lätt - 
-      jag ville arbeta med något jag brinner för.
+      Produktion av prefabricerade betongelement med operativt ansvar för 
+      materialflöde, kvalitet och leverans. Lämnade för att följa min passion.
       
-      Huvudsakliga arbetsuppgifter:
-        - Formning, armering och ingjutningsgods för betongelement
-        - Operativt ansvar för betongbeställningar, logistik och materialflöde
-        - Kvalitetsfinish: glättning, slipning och ythantering
-        - Samordning med leverantörer och internt team
-        - Felsökning och problemlösning vid produktionsavvikelser
+      **Överförbara kompetenser:** Systematisk problemlösning (root cause analysis), 
+      arbeta under tidspress, kvalitetsfokus, teamarbete, teknisk dokumentation.
       
-      **Vad jag tar med mig till programmering:**
-        - Systematisk problemlösning och root cause analysis
-        - Förmåga att arbeta under press med täta deadlines
-        - Kvalitetsmedvetenhet och detaljorientering
-        - Teamarbete och tydlig kommunikation
-      
-  - role: Svetsare
-    time: 2017 - Maj 2019
-    company: Specma Hydraulic AB
+  - role: Svetsare | Driftledare | Montör
+    time: 2015 - 2019
+    company: Specma Hydraulic, ABAS Protect, m.fl.
     details: |
-      Specialiserad svetsning av hydraulikrör och komponenter med MIG/MAG och TIG 
-      enligt höga kvalitetskrav. Arbetet krävde extrem precision med nolltolerans 
-      mot porer och läckage.
+      Olika roller inom svets, produktion och operativ ledning. Arbetade med 
+      strikta kvalitetskrav (nolltolerans), personalansvar och processledning.
       
-      Arbetsuppgifter:
-        - Svetsning av hydraulikrör och komponenter för industri- och fordonssystem
-        - Kvalitetskontroll enligt strikta täthets- och hållfasthetsstandarder
-        - Arbete med rundmatningsbord och robotintroduktion (ABB)
-        - Ritningsläsning och materialval för optimala svetsresultat
-      
-      Kompetenser: Precision, kvalitetsfokus, teknisk förståelse och anpassning 
-      till nya tekniker och arbetsmetoder.
-      
-  - role: Driftledare / Maskinoperatör
-    time: 2015 - 2017
-    company: ABAS Protect AB
-    details: |
-      Operativ ledning av produktionsflöde och personalansvar. Kombinerade 
-      planeringsansvar med praktiskt deltagande i produktionen.
-      
-      Ansvarsområden:
-        - Planering av produktionsordrar och leveransflöde
-        - Arbetsfördelning och koordinering av personal
-        - Operativt deltagande i produktionen vid behov
-        - Säkerställande av produktionskvalitet och leveranstider
-      
-      Nyckelkompetenser: Ledarskap, planering, kommunikation och 
-      problemlösning under tidspress.
-      
-  - role: Lastmaskinist (Hjullastare)
-    time: 
-    company: EME Energiproduktion AB
-    details: |
-      Materialförsörjning och driftstabilitet för energiproduktion. Arbete med 
-      hjullastare för materialhantering och blandning.
-      
-      Arbetsuppgifter:
-        - Materialförsörjning och säkerställande av driftstabilitet
-        - Blandning och kontroll av fuktbalans för optimal förbränning
-        - Helg- och nattpass vid behov för att upprätthålla kontinuerlig drift
-      
-  - role: Svetsare & Montör
-    time: 
-    company: Borås Svets & Montage
-    details: |
-      Svetsning och montering både inomhus och utomhus enligt kundspecifikationer.
-      
-      Arbetsuppgifter:
-        - Svetsning och strukturell montering på plats
-        - Kapning, borrning och förberedelse av material
-        - Anpassning till varierande projekt och arbetsmiljöer
-      
-  - role: Svetsare / Montör
-    time: 
-    company: Lydde Mekaniska
-    details: |
-      Svetsning och strukturell montering för industri- och byggprojekt.
-      
-      Arbetsuppgifter:
-        - Svets och strukturell montering enligt ritningar
-        - Kapning och borrning av material
-        - Kvalitetskontroll och efterarbete
+      **Nyckelkompetenser:** Precision, ledarskap, planering, anpassningsförmåga 
+      och metodiskt arbete.
 
 certifications:
   title: Certifikat & Behörigheter
@@ -281,19 +214,26 @@ certifications:
       och MIG/MAG på stål, plåt och rör.
 
 projects:
-  title: Projekt & Lärande
+  title: 💻 Projekt & Portfolioutveckling
   intro: >
-    Även om jag precis börjat min programmeringsresa i september 2025, arbetar jag aktivt med 
-    projekt och övningar för att påskynda min utveckling. Här är exempel på vad jag jobbar med 
-    och planerar att bygga under min utbildning.
+    Förutom skolprojekt arbetar jag aktivt med egna sidoprojekt för att påskynda min utveckling. 
+    Här är exempel på vad jag bygger och lär mig.
   assignments:
+  - title: "🌐 Sebastian.pluggar.se - Min Studieportal"
+    link: "https://galenginger.github.io/Sebastian.pluggar.se/"
+    tagline: "Personlig studieportal där jag dokumenterar min inlärningsresa inom .NET och programmering. Innehåller anteckningar, reflektioner och tutorials från min väg till att bli utvecklare."
+
+  - title: "🧩 4-vägsförslutningen - Interaktiv Problemlösning"
+    link: "https://galenginger.github.io/Sebastian.pluggar.se/4-vagsl%C3%B6sningen/"
+    tagline: "Interaktivt projekt för att träna logiskt tänkande och problemlösning. Praktiskt exempel på hur jag tillämpar programmering för verkliga utmaningar."
+
+  - title: Videotek-Applikation (Skolprojekt)
+    link: "#"
+    tagline: "Databasdriven C# applikation med SQL för videohantering. CRUD-operationer, relationsdatabaser och OOP-design. Mitt första större databasprojekt."
+
   - title: Konsollapplikationer i C#
     link: "#"
-    tagline: "Grundläggande konsolprogram för att öva på syntax, loopar, conditionals och objektorientering. Fokus på att verkligen förstå grunderna."
-
-  - title: Videotek-Applikation (Pågående skolprojekt)
-    link: "#"
-    tagline: "Databasdriven applikation för videohantering med C# och SQL. Implementerar CRUD-operationer, relationsdatabaser och objektorienterad design för att hantera filmer, kategorier och användare."
+    tagline: "Grundläggande konsolprogram för att öva syntax, loopar, conditionals och objektorientering. Fokus på att behärska fundamenten."
 
   - title: GitHub Learning Repository
     link: "https://github.com/galenginger"
