@@ -14,7 +14,7 @@ sidebar:
 
   # Sidebar links
   email: sebastianprivata@gmail.com
-  phone: 0725256121
+  phone: +46 725256121
   timezone: Europe/Stockholm
   citizenship: Svensk
   website: # Include the full website URL, including "http://" or "https://".
@@ -129,7 +129,7 @@ education:
       
   - degree: International Welding – IW Svets
     university: Marks Gymnasium, Skene
-    time: 2017 - 2019
+    time: 
     details: |
       Yrkesutbildning inom avancerad svetsning med inriktning på TIG/MMA och MIG/MAG 
       på stål, plåt och rör. Utbildningen betonade precision, metodisk arbetsgång och 
